@@ -1,0 +1,46 @@
+/* @media (min-width: 576px) and (max-width:767.68px){
+
+} */
+@media (max-width:767.98px){
+    .menu-bg i{
+        color: green;
+    }
+    .navbar-light .navbar-toggler {
+        border-color:green;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .menu-bg ul{
+        text-align: center;
+        background-color: #89e137;
+}
+    .menu-bg form{
+        text-align: center !important;
+
+    }
+    .about-text{
+        margin: 30px 0;
+    }
+    .skill-container{
+        margin: -50px 0;
+    }
+    .edu-text{
+        margin: 0 100px;
+    }
+    .ser-item-one{
+        display: none;
+    }
+    .ser-item{
+        margin: 15px 0;
+    }
+    .pro-one{
+        padding: 0 50px;
+    }
+    .price-item-no{
+        display: none;
+    }
+    .hallo{
+        display: none;
+    }
+}
